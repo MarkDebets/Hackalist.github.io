@@ -19,5 +19,20 @@
           "googlePlusURL": "",
           "notes": "10 teams with a maximum of 5 people each"
         }
+            {
+          "title": "Sporthack 2018",
+          "url": "https://www.sporthack.nl",
+          "startDate": "October 04",
+          "endDate": "October 05",
+          "year": "2018",
+          "city": "Arnhem, Netherlands",
+          "host": "Sportbedrijf Arnhem",
+          "length": "32",
+          "size": "60",
+          "travel": "no",
+          "prize": "yes",
+          "highSchoolers": "yes",
+          "cost": "free",
+        }
     ]
 }
